@@ -29,7 +29,7 @@ To bridge the gap in understanding difficult concepts, I integrated **Google VEO
 
 ## 🛠️ Tech Stack
 * **Framework:** Laravel (PHP)
-* **AI Model:** Google VEO 3 (Video Generation API)
+* **AI Model:** Google VEO 3 (Video Generation AI)
 * **Frontend:** Interactive Flipbook.js implementation, Responsive Design
 * **Database:** MySQL
 
